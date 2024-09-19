@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I'm Aamir Alam, a Fullstack blockchain developer, interested in all things Defi & Blockchain!
+
+- 🔭 I’m currently working on Building a Telegram Mini App to share blockchain Knowledge to users.
+- 🌱 I’m currently learning Solidity and EVM.
+- 👯 I’m looking to collaborate on a Defi application that can solve problems in the Defi space.
+- 🤔 I’m looking for help with Solidity, React, and Node.js
+
+  
 <!--
 **AamirAlam/AamirAlam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
