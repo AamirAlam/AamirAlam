@@ -1,11 +1,10 @@
 ## Hi there 👋
 
-I'm Aamir Alam, a Fullstack blockchain developer, interested in all things Defi & Blockchain!
+I'm Aamir Alam, a full-stack developer, interested in all things Defi & Blockchain!
 
-- 🔭 I’m currently working on Building a Telegram Mini App [TaskDao](https://t.me/TaskDaoBot) to share blockchain knowledge with users.
-- 🌱 I’m currently learning Solidity and EVM.
+- 🔭 I’m currently Building Flow8 (No code tool for AI) [TaskDao]([https://t.me/TaskDaoBot](https://flo8.io/))
+- 🌱 I’ve experienced in Building Web3 applications using(Express, Next.js, React, Vite, Fastify, and Solidity etc)
 - 👯 I’m looking to collaborate on a Defi application that can solve problems in the Defi space.
-- 🤔 I’m looking for help with Solidity, React, and Node.js
 
   
 <!--
