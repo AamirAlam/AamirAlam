@@ -2,7 +2,7 @@
 
 I'm Aamir Alam, a full-stack developer, interested in all things Defi & Blockchain!
 
-- 🔭 I’m currently Building Flow8 (No code tool for AI) [TaskDao]([https://t.me/TaskDaoBot](https://flo8.io/))
+- 🔭 I’m currently Building Flow8 (No code tool for AI) [Flo8]([https://t.me/TaskDaoBot](https://flo8.io/))
 - 🌱 I’ve experienced in Building Web3 applications using(Express, Next.js, React, Vite, Fastify, and Solidity etc)
 - 👯 I’m looking to collaborate on a Defi application that can solve problems in the Defi space.
 
