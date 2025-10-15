@@ -1,18 +1,38 @@
-# Hi there 👋  
+# 👋 Hey, I’m Aamir Alam  
 
-I'm **Aamir Alam**, a **Full Stack Developer** passionate about **DeFi, Blockchain, and high-performance web applications**.  
-With **4.5+ years of experience**, I specialize in building scalable decentralized applications and modern web platforms.  
+🚀 Senior Fullstack Engineer specialized in Web3 systems — with proven experience leading end-to-end delivery of scalable DeFi products across frontend, backend, and smart contracts.  
 
 ---
 
 ## 🔥 About Me  
-- 🔭 Currently building **[Flo8](https://flo8.io/)** – a no-code tool for AI  
-- 🌱 Skilled in **React, Next.js, Nuxt3, Node.js, Express, Fastify, Solidity, and Web3 integrations**  
-- ⚡ Designed **DeFi protocols, AMMs, multichain wallet integrations, and ERC-4626 vaults**  
-- 🚀 Previously contributed to **API3, QuickSwap, and PolkaBridge**  
-- 🏆 **ETH India 2024 Finalist** for innovative blockchain solutions  
-- 👯 Open to collaborating on **DeFi applications** that solve real-world problems in Web3  
-- 💡 Passionate about **performance optimization** – cut load times by 80% at QuickSwap and boosted developer engagement by 25% at API3  
+
+- 💼 Currently building at **[API3](https://api3.org/)** — architecting scalable data pipelines, developer tooling, and ecosystem platforms for decentralized APIs  
+- ⚙️ Skilled across the stack: **React, Next.js, Node.js, TypeScript, Solidity, Ethers.js, GraphQL, PostgreSQL, MongoDB**  
+- 🔗 Experienced in designing **REST & GraphQL APIs**, real-time subgraph indexing, and on-chain/off-chain data integrations  
+- ⚡ Built and optimized **DeFi protocols, AMMs, multichain wallets, and ERC-4626 vaults** — reduced latency by 40% & boosted developer engagement by 25%  
+- 🧱 Previously contributed to **QuickSwap** and **PolkaBridge**, leading fullstack and multichain development initiatives  
+- 🏆 **ETHIndia 2024 Finalist** & **ETHIstanbul 2023 Winner** for innovative DeFi protocol design  
+- 💡 Passionate about **clean architecture, scalability, and performance optimization** in Web3 applications  
+
+---
+
+## 🧩 Highlight Projects  
+
+- **[API3 Ecosystem Platform](https://api3.org/)** – Built Nuxt3 + Nitro-based developer portal showcasing dApps & data feeds; improved latency by 40%  
+- **[Neura Vaults](https://neura-vaults-frontend.vercel.app/markets)** – ERC-4626 DeFi vaults with async deposits, yield rebalancing, and automation  
+- **[Flow3](https://devfolio.co/projects/flow-bd3f)** – Composable backend using Temporal & Express.js for AI workflow automation  
+
+---
+
+## 🌍 Connect With Me  
+
+- 💼 [LinkedIn](https://linkedin.com/in/aamir-alam)  
+- 💻 [GitHub](https://github.com/AamirAlam)  
+- ✉️ **aamiralam1991@gmail.com**
+
+---
+
+> _Building scalable, data-driven, and user-focused decentralized systems — one block at a time._
 
 ---
 
