@@ -33,15 +33,9 @@ I am a senior full-stack engineer specializing in Web3, distributed systems, and
 
 ## Recent Projects
 
-**API3 Ecosystem Platform**
-Nuxt3/Nitro-based developer ecosystem showcasing decentralized APIs and dApps. Achieved 40% latency reduction and improved developer engagement.
-
-**Neura Vaults**
-Advanced ERC-4626 vault platform with async deposits, yield rebalancing, and automated strategy execution.
-
-**Flow3**
-Composable backend for AI workflow automation using Temporal and Express.js.
-
+- **[API3 Ecosystem Platform](https://api3.org/)** – Built Nuxt3 + Nitro-based developer portal showcasing dApps & data feeds; improved latency by 40%
+- **[Neura Vaults](https://neura-vaults-frontend.vercel.app/markets)** – ERC-4626 DeFi vaults with async deposits, yield rebalancing using CrewAI agent chain.
+- **[Flow3](https://devfolio.co/projects/flow-bd3f)** – Composable backend using Temporal & Express.js for AI workflow automation
 ---
 
 ## Tech Stack
