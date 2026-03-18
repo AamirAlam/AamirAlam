@@ -1,88 +1,66 @@
+# 👋 Hey, I'm Aamir
 
----
+Senior DeFi Engineer specializing in perpetual DEXs, multichain AMMs, and high-performance trading systems.
 
-# Aamir Alam
+## 🔭 Currently
 
-### Senior Full-Stack & Web3 Engineer | DeFi Systems Architect
+**Autonom** — Building peer-to-peer perpetual trading platform on Solana
 
-I am a senior full-stack engineer specializing in Web3, distributed systems, and scalable DeFi architectures. With over four years of experience delivering production-grade decentralized applications, I focus on robust engineering, high performance, and clean system design. Currently at **API3**, I build developer tooling, data pipelines, and ecosystem infrastructure powering decentralized APIs.
+## 💼 Previously
 
----
+**API3** — Developer tooling and oracle infrastructure  
+**QuickSwap** — DEX frontend optimization (80% load time improvement)  
+**Polkabridge** — Multichain AMM serving 20K+ users
 
-## Interests & Expertise
+## 🚀 Highlights
 
-### Core Interests
+- Built **P2P perp DEX** on Solana with real-time order matching
+- Architected multichain AMM across **Polygon, BSC, Ethereum** (20K users)
+- Designed **ERC-4626 vault system** with autonomous yield rebalancing
+- Automated protocol deployments for **AAVE & Compound** (30% faster cycles)
+- 🏆 **ETH Istanbul 2023 Winner** • 🥈 **ETH India 2024 Finalist**
 
-* Scalable Web3 and DeFi architectures
-* Distributed systems & high-performance backend engineering
-* Developer tooling, automation, and infrastructure reliability
-* Clean architecture, modular code design, and long-term maintainability
-* On-chain/off-chain data pipelines and indexing systems
-* Protocol design, yield systems, and advanced smart contract patterns
+## 🛠️ Tech Stack
+```javascript
+const stack = {
+  blockchain: ["Solana", "Ethereum", "Polygon", "Arbitrum"],
+  solana: ["Anchor", "@solana/web3.js", "SPL"],
+  web3: ["Ethers.js", "Viem", "Wagmi", "Hardhat", "The Graph"],
+  frontend: ["React", "Next.js", "TypeScript", "Tailwind"],
+  backend: ["Node.js", "NestJS", "GraphQL", "PostgreSQL", "Redis"],
+  infrastructure: ["Kafka", "Temporal", "Docker", "AWS"]
+}
+```
 
-### Technical Expertise
+## 📌 Featured Projects
 
-* End-to-end development across frontend, backend, and smart contracts
-* Multichain integrations, wallets, AMMs, and ERC-4626 vaults
-* Architecting REST/GraphQL APIs, microservices, and event-driven systems
-* Real-time indexing (subgraphs, custom indexers)
-* Performance optimization and low-latency data flow design
-* Leading technical execution, code quality, and scalable engineering standards
+### [Autonom](https://autonom.xyz)
+P2P perpetual trading platform on Solana with real-time order matching
 
----
+### [Neura Vaults](https://neuravaults.xyz)
+ERC-4626 vaults with LLM-based autonomous yield strategies
 
-## Recent Projects
+### [Flow3](https://devfolio.co/projects/flow-bd3f)
+Event-driven AI workflow automation using Temporal + Kafka
 
-- **[API3 Ecosystem Platform](https://api3.org/)** – Built Nuxt3 + Nitro-based developer portal showcasing dApps & data feeds; improved latency by 40%
-- **[Neura Vaults](https://neura-vaults-frontend.vercel.app/markets)** – ERC-4626 DeFi vaults with async deposits, yield rebalancing using CrewAI agent chain.
-- **[Flow3](https://devfolio.co/projects/flow-bd3f)** – Composable backend using Temporal & Express.js for AI workflow automation
----
+### API3 Ecosystem Platform
+Developer portal with live on-chain data feeds (25% engagement boost)
 
-## Tech Stack
+## 🏆 Achievements
 
-### Frontend
+- 🥇 **ETH Istanbul 2023** — Most Refined Project
+- 🥈 **ETH India 2024** — Finalist
+- ⚡ **QuickSwap** — 80% frontend performance improvement
+- 📈 **Polkabridge** — Scaled to 20K+ active users
 
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nuxt3-00C58E?style=flat&logo=nuxtdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=FFD62E"/>
-</p>
+## 📊 GitHub Stats
 
-### Backend
+![Aamir's GitHub stats](https://github-readme-stats.vercel.app/api?username=AamirAlam&show_icons=true&theme=dark)
 
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Fastify-20232A?style=flat&logo=fastify&logoColor=white"/>
-</p>
+## 📫 Let's Connect
 
-### Blockchain
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aamir2alam)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aamiralam1991@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AamirAlam201096)
 
-<p>
-<img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ethers.js-2536E0?style=flat&logo=ethereum&logoColor=white"/>
-<img src="https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3.js&logoColor=white"/>
-</p>
-
-### Databases
-
-<p>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white"/>
-</p>
-
----
-
-
-
-## Contact
-
-[LinkedIn](https://www.linkedin.com/in/aamir-alam)
-[GitHub](https://github.com/aamiralam)
-Email: **[aamiralam1991@gmail.com](mailto:aamiralam1991@gmail.com)**
-
----
-
+📍 Based in India, New Delhi
