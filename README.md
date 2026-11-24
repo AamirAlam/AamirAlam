@@ -1,28 +1,29 @@
 # Aamir Alam
 
-**FDE | Building with an Agentic Lens & First Principles**  
-Bengaluru / New Delhi, India • [Portfolio](https://aamir2alam.vercel.app) • [LinkedIn](https://linkedin.com/in/aamir2alam) • [Email](mailto:aamiralam1991@gmail.com)
+**Forward Deployed Engineer | Applied AI and Full Stack**  
+New Delhi, India | [Portfolio](https://aamir2alam.vercel.app) | [LinkedIn](https://linkedin.com/in/aamir2alam) | [Email](mailto:aamir2alam.in@gmail.com)
 
 ---
 
-Senior Full-Stack Engineer with 5+ years of experience building scalable web applications, real-time data platforms, and healthcare software. Currently applying first-principles engineering to **Agentic AI**—designing reliable agent harnesses, memory systems, and domain-specific SLMs.
+Full-stack engineer with 5+ years of experience building web applications, data pipelines, and blockchain infrastructure. Currently focused on building and evaluating tool-calling AI agents with deterministic safety checks.
 
-### Focus Areas
-* **Agentic Harnesses:** State-machine workflows, deterministic boundaries, and automated evaluations.
-* **Memory Systems:** Structured context retention (working scratchpads, session history, and semantic search).
-* **Domain SLMs:** Fine-tuning (LoRA/QLoRA) and evaluating small language models on private data.
+### Projects
 
-### Selected Impact
-* **Autonom:** Built multi-RPC failover for a Solana trading platform, cutting transaction errors by 70%.
-* **API3:** Redesigned analytics data pipelines, reducing platform latency by 40%.
-* **QuickSwap:** Optimized DEX trading flows, improving initial page load by 80%.
-* **Hackathons:** Winner at ETH Istanbul (2023) • Finalist at ETH India (2024).
+* **[IntentChain](https://github.com/AamirAlam/IntentChain)**: A risk assessment agent built with TypeScript, OpenAI Agents SDK, and Zod. Separates LLM reasoning from deterministic safety rules. Reduced model calls by 42% (56 vs 96) while matching 72 of 72 action checkpoints in synthetic tests.
+* **[Flow3 (ETHIndia 2024 Finalist)](https://github.com/AamirAlam/web3-flow-backend)**: Event-driven Web3 workflow builder. Built the backend using Kafka, Express.js, and smart contract triggers.
+* **[API3 Ecosystem](https://github.com/AamirAlam/api3-ecosystem)**: Developer platform for API3 dApps built with TypeScript and Nuxt 3. Redesigned analytics data pipelines to reduce latency by 40%.
+* **[React Vite Starter](https://github.com/AamirAlam/react-vite-production-kit)**: React starter kit with TypeScript, Tailwind CSS, and automated build workflows.
 
-### Key Projects
-* **[SLM Fine-Tuning Pipeline](https://github.com/AamirAlam):** Enterprise SLM adaptation and evaluation framework for private data.
-* **[Agent Memory Engine](https://github.com/AamirAlam):** Multi-tier context retrieval and pruning system for autonomous agents.
-* **[Flow3](https://github.com/AamirAlam):** Event-driven workflow automation engine built with Temporal and Kafka.
-* **[Autonom DEX](https://github.com/AamirAlam):** Real-time data indexing and streaming infrastructure on Solana.
+### Work Experience & Impact
 
-### Stack
-`TypeScript` `Node.js` `Python` `React` `Next.js` `Redis` `Kafka` `Temporal` `PostgreSQL` `Docker` `Solana`
+* **Autonom Labs**: Built multi-RPC failover for a liquidation service, reducing transaction errors by 70%.
+* **API3**: Redesigned analytics data pipelines, reducing platform latency by 40%. Mentored two engineers.
+* **QuickSwap**: Lazy-loaded React components to reduce initial page load time by 80%.
+* **Hackathons**: Winner at ETHGlobal Istanbul 2023 (Amca). Finalist at ETHIndia 2024 (Flow3).
+
+### Skills
+
+* **AI and Agents**: OpenAI Agents SDK, Tool Calling, Prompt Engineering, Evaluation Benchmarks, Zod, Python
+* **Languages**: TypeScript, JavaScript, Python, Node.js, Solidity
+* **Frontend and Backend**: React, Next.js, Express.js, REST APIs, GraphQL
+* **Databases and Tools**: PostgreSQL, MongoDB, Redis, Kafka, Docker, Git
